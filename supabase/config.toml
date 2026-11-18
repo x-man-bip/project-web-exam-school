@@ -1,0 +1,26 @@
+[functions.admin-create-user]
+verify_jwt = true
+
+[functions.admin-batch-create-users]
+verify_jwt = true
+
+[functions.admin-delete-user]
+verify_jwt = true
+
+[functions.admin-reset-password]
+verify_jwt = true
+
+[functions.exam-gateway]
+verify_jwt = true
+
+[functions.change-password]
+verify_jwt = true
+
+[functions.change-avatar]
+verify_jwt = true
+
+[functions.enforce-single-session]
+verify_jwt = true
+
+[functions.setup-initialize]
+verify_jwt = false

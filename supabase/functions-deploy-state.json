@@ -1,0 +1,41 @@
+{
+  "projectId": "72828239",
+  "functions": {
+    "admin-batch-create-users": {
+      "hasChanged": false,
+      "hash": "e51b07137c39d5f5d6f15d464d352114dd8c1354d247374174f341ac37cfc3b3"
+    },
+    "admin-create-user": {
+      "hasChanged": false,
+      "hash": "0b08127b7b62b254c402e0c96f91df3166295c5ab58a50d8605cccf0b597977e"
+    },
+    "admin-delete-user": {
+      "hasChanged": false,
+      "hash": "74c77394904ef9f52dbaa587630a98a882ca58219b5a082efeef175e28f77aa9"
+    },
+    "admin-reset-password": {
+      "hasChanged": false,
+      "hash": "1ed2c66104233abf82b2ab33b53fe8af0f453eb9f579ee72f206b2b580cb56bf"
+    },
+    "change-avatar": {
+      "hasChanged": false,
+      "hash": "241e9f45076ef524136cba72c8119dec02a817675dba42c972fe67ae0999b94a"
+    },
+    "change-password": {
+      "hasChanged": false,
+      "hash": "54d6beb9c262b0441ecd3b4dde70875ed6e0b7880d3f4269b91594560bdb83dc"
+    },
+    "enforce-single-session": {
+      "hasChanged": false,
+      "hash": "f636b802229a1d6d6340988b620f6b916fae99f9532844d3a2fa4e9102e43bbe"
+    },
+    "exam-gateway": {
+      "hasChanged": false,
+      "hash": "d8dcd29bf457896901b5605960fc46d9d2b2b4f5c7cade2a506ef052c9ca552a"
+    },
+    "setup-initialize": {
+      "hasChanged": false,
+      "hash": "59cf8afa969c915303531d5bf34f36e4a9909c46e7f802805c24e74b370bfed3"
+    }
+  }
+}

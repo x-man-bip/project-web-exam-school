@@ -1,0 +1,1 @@
+ALTER TABLE school_settings ADD COLUMN IF NOT EXISTS theme jsonb NOT NULL DEFAULT '{}'::jsonb;
